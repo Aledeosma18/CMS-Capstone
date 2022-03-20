@@ -1,0 +1,27 @@
+// To launch Jupyter lab
+// Open locatl terminal and type:  jupyter lab
+// It should open a browser with jupyter lab
+
+// 
+// create a python 3 ( ipykernel) file 
+// recomend creating a new folder with the project
+
+// to download data open census reporter find a set of data 
+// make sure that when downloaded the data is a GeoJSON file
+// save data in the same folder as project 
+
+// to import data 
+// make sure you have these imports:
+
+import geopandas as gpd
+import matplotlib.pyplot as plt
+import contextily as ctx
+
+
+// to read in data :
+
+data = gpd.read_file( 'path and file name') 
+
+// to plot simple graph 
+
+data.plot() 
