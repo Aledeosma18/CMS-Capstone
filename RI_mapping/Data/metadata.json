@@ -1,0 +1,92 @@
+{
+    "release": {
+        "id": "acs2019_1yr",
+        "years": "2019",
+        "name": "ACS 2019 1-year"
+    },
+    "tables": {
+        "B12001": {
+            "title": "Sex by Marital Status for the Population 15 Years and Over",
+            "universe": "Population 15 Years and Over",
+            "denominator_column_id": "B12001001",
+            "columns": {
+                "B12001001": {
+                    "name": "Total:",
+                    "indent": 0
+                },
+                "B12001002": {
+                    "name": "Male:",
+                    "indent": 1
+                },
+                "B12001003": {
+                    "name": "Never married",
+                    "indent": 2
+                },
+                "B12001004": {
+                    "name": "Now married:",
+                    "indent": 2
+                },
+                "B12001005": {
+                    "name": "Married, spouse present",
+                    "indent": 3
+                },
+                "B12001006": {
+                    "name": "Married, spouse absent:",
+                    "indent": 3
+                },
+                "B12001007": {
+                    "name": "Separated",
+                    "indent": 4
+                },
+                "B12001008": {
+                    "name": "Other",
+                    "indent": 4
+                },
+                "B12001009": {
+                    "name": "Widowed",
+                    "indent": 2
+                },
+                "B12001010": {
+                    "name": "Divorced",
+                    "indent": 2
+                },
+                "B12001011": {
+                    "name": "Female:",
+                    "indent": 1
+                },
+                "B12001012": {
+                    "name": "Never married",
+                    "indent": 2
+                },
+                "B12001013": {
+                    "name": "Now married:",
+                    "indent": 2
+                },
+                "B12001014": {
+                    "name": "Married, spouse present",
+                    "indent": 3
+                },
+                "B12001015": {
+                    "name": "Married, spouse absent:",
+                    "indent": 3
+                },
+                "B12001016": {
+                    "name": "Separated",
+                    "indent": 4
+                },
+                "B12001017": {
+                    "name": "Other",
+                    "indent": 4
+                },
+                "B12001018": {
+                    "name": "Widowed",
+                    "indent": 2
+                },
+                "B12001019": {
+                    "name": "Divorced",
+                    "indent": 2
+                }
+            }
+        }
+    }
+}
