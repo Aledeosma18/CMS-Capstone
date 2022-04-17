@@ -1,0 +1,28 @@
+{
+    "release": {
+        "id": "acs2020_5yr",
+        "years": "2016-2020",
+        "name": "ACS 2020 5-year"
+    },
+    "tables": {
+        "B25003": {
+            "title": "Tenure",
+            "universe": "Occupied Housing Units",
+            "denominator_column_id": "B25003001",
+            "columns": {
+                "B25003001": {
+                    "name": "Total:",
+                    "indent": 0
+                },
+                "B25003002": {
+                    "name": "Owner occupied",
+                    "indent": 1
+                },
+                "B25003003": {
+                    "name": "Renter occupied",
+                    "indent": 1
+                }
+            }
+        }
+    }
+}
